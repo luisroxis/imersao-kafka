@@ -21,7 +21,7 @@ func main() {
 	}
 
 	topic := "teste"
-	msg := "Hello Fullcycle"
+	msg := "Hello FullStack & FullCycle"
 	deliveryChan := make(chan ckafka.Event)
 
 	message := &ckafka.Message{

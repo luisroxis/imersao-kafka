@@ -1,4 +1,4 @@
-module github.com/renatoosaka/imersao-kafka
+module github.com/luisroxis/imersao-kafka
 
 go 1.15
 
